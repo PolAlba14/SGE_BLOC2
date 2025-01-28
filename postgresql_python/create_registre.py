@@ -29,4 +29,4 @@ def create_reg():
 
    #Tancar connexió
    conn.close()
-   cursor.close(
+   cursor.close()
